@@ -33,4 +33,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ko-fi.com/ankitkhandelwal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/ankitkhandelwal" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-kumar-khandelwal&show_icons=true&locale=en&layout=compact" alt="ankit-kumar-khandelwal" /></p>
+
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-kumar-khandelwal&" alt="ankit-kumar-khandelwal" />
