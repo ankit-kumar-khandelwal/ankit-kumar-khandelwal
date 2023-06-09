@@ -6,9 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/ankitkk2003" target="blank"><img src="https://img.shields.io/twitter/follow/ankitkk2003?logo=twitter&style=for-the-badge" alt="ankitkk2003" /></a> </p>
 
-- 🔭 I’m currently working in **TEXAM**
 
-- 🌱 I’m currently learning **REACT**
+  - 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/ankitkumarkhandelwal](https://www.behance.net/ankitkumarkhandelwal)
 
