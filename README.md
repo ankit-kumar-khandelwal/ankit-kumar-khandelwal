@@ -35,5 +35,4 @@
 
 
 
-<img align="left" src="https://holopin.me/ankitkhandelwal)](https://holopin.io/@ankitkhandelwal" alt="ankit-kumar-khandelwal" />
 </body>
