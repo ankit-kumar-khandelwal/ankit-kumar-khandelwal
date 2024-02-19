@@ -36,9 +36,9 @@
 ## 📈 my github stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit-kumar-khandelwal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NeerajUpadhyay01&locale=en&card_width=320&layout=compact&langs_count=5&theme=gotham&order=2" height="200" alt="languages graph" />  -->
   <img src="https://streak-stats.demolab.com?user=ankit-kumar-khandelwal&locale=en&card_width=320&layout=compact&mode=daily&theme=gotham&border_radius=5&order=2" height="200" alt="streak graph"  />
 </div>
+
 
 </body>
